@@ -29,7 +29,7 @@
         "description": "List down the user IDs who should have permission to use and reply to users, seperated by SPACE. To get user ids, send /id command to Telegram @OwnErObOT",
         "value": "395357593"
       },
-      "Start_text": {
+      "START_OTHER_USERS_TEXT": {
         "description": "Start Text",
         "required": false
       }
