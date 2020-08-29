@@ -12,9 +12,9 @@
       "channel",
       "administrators"
     ],
-    "repository": "https://github.com/sudoshell/NoPMsBot",
-    "website": "https://telegram.dog/SpEcHlDe",
-    "success_url": "https://t.me/SpEcHlDe/571",
+    "repository": "https://github.com/Anonymous5945/Nopmadvedited",
+    "website": "https://github.com/Anonymous5945/Nopmadvedited",
+    "success_url": "https://github.com/Anonymous5945/Nopmadvedited",
     "env": {
       "APP_ID": {
         "description": "Get this value from my.telegram.org! Please do not steal"
@@ -27,7 +27,11 @@
       },
       "AUTH_USERS": {
         "description": "List down the user IDs who should have permission to use and reply to users, seperated by SPACE. To get user ids, send /id command to Telegram @OwnErObOT",
-        "value": "7351948 500346573 606342588 653184647 751003349 752396210 797179106 804216742 830068297 873236756"
+        "value": "395357593"
+      },
+      "Start_text": {
+        "description": "Start Text",
+        "required": false
       }
     },
     "addons": [{
