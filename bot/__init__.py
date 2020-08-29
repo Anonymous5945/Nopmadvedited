@@ -49,20 +49,16 @@ TG_BOT_WORKERS = int(get_config("TG_BOT_WORKERS", "4"))
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Annyeong chingu 😊😊"
-
-         This is D&O Official query Bot . You can Request here for encoding dramas in 720p x265 or complaint about our files. 
-
-         Note: Please Don't Abuse this Bot 🥺🥺 , use it only for needy 🙈"
+        "<b>Annyeong chingu</b> 😊😊\n\n"
+        "This is <b>D&O Official query</b> Bot . You can Request here for encoding dramas in 720p x265 or complaint about our files.\n\n"
+        "Note: <b>Please Don't Abuse this Bot 🥺🥺 , use it only for needy </b>🙈"
     )
 )
 # check online status of your bot
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "<b>Annyeong chingu</b> 😊😊\n\n"
-        "This is <b>D&O Official query</b> Bot . You can Request here for encoding dramas in 720p x265 or complaint about our files.\n\n"
-        "Note: <b>Please Don't Abuse this Bot 🥺🥺 , use it only for needy </b>🙈"
+        "<b>Annyeong chingu</b> 🙈🙈🙈\n\n"
     )
 )
 # IDEKWBYRW
